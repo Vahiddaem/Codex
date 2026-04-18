@@ -1,0 +1,4 @@
+interface:
+  display_name: "EHSAN EDITORIAL"
+  short_description: "Design photoreal editorial collage infographics."
+  default_prompt: "Use $ehsan-editorial to design a photoreal cutout-collage infographic for this topic: {{topic}}."
